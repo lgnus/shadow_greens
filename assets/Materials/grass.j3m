@@ -1,0 +1,24 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        SteepParallax : false
+        ParallaxHeight : 0.0
+        DiffuseMap : Textures/grass/grass.jpg
+        PackedNormalParallax : false
+        HardwareShadows : false
+        VTangent : true
+        HighQuality : false
+        LATC : false
+        UseAlpha : true
+        VertexLighting : false
+        Minnaert : false
+        UseVertexColor : false
+        UseMaterialColors : false
+        NormalMap : Textures/grass/NormalMap.png
+        ParallaxMap : Textures/grass/DisplacementMap.png
+        EnvMapAsSphereMap : false
+        LowQuality : false
+        WardIso : false
+     }
+    AdditionalRenderState {
+    }
+}

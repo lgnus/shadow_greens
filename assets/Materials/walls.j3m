@@ -1,0 +1,25 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        NormalMap : Textures/Wall/NormalMap.png
+        PackedNormalParallax : false
+        ParallaxHeight : -0.3
+        PCFEdge : 0.0
+        LowQuality : false
+        UseVertexColor : false
+        Minnaert : false
+        VertexLighting : false
+        UseAlpha : false
+        LATC : false
+        HighQuality : false
+        SpecularMap : Textures/Wall/SpecularMap.png
+        DiffuseMap : Textures/Wall/wallN.png
+        ParallaxMap : Textures/Wall/ParallaxMap.png
+        HardwareShadows : false
+        WardIso : false
+        UseMaterialColors : false
+        SteepParallax : false
+        Shininess : 0.4
+     }
+    AdditionalRenderState {
+    }
+}
